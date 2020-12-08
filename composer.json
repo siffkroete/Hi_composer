@@ -9,7 +9,7 @@
             "email": "iwanp@gmx.ch"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"siffkroete\\HiWelt\\": "src/"}
     },
