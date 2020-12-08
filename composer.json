@@ -1,0 +1,17 @@
+{
+    "name": "siffkroete/hellocomposer",
+    "description": "Ein Composer Test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "siffkroete",
+            "email": "iwanp@gmx.ch"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"siffkroete\\HiWelt\\": "src/"}
+    },
+    "require": {}
+}
